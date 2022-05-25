@@ -1,0 +1,70 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background-color: #a9f1a9;
+}
+
+.Bloquetitulo {
+    font-size: 40px;
+    letter-spacing: 1px;
+    margin: 0;
+    padding-top: 50px;
+    text-align: center;
+    font-family: Ink Free;
+    color: rgb(24, 179, 93);
+}
+
+.parrafotitulo1 {
+    letter-spacing: 1px;
+    color: black;
+    margin-top: -30px;
+    text-align: center;
+    font-size: 25px;
+    padding-bottom: 35px;
+}
+
+.video {
+    text-align: center;
+    padding-bottom: 35px;
+    background: rgb(121, 240, 92);
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.frases {
+    font-size: 30px;
+    letter-spacing: 1px;
+    margin: 0;
+    padding-top: 20px;
+    text-align: center;
+    font-family: Ink Free;
+    color: rgb(0, 0, 0);
+    background: white;
+    padding-bottom: 20px;
+    font-style: italic;
+}
+
+.frases1 {
+    width: 100%;
+    height: 400px;
+    display: flex;
+    text-align: center;
+    padding-left: 70px;
+    padding-top: 25px;
+}
+
+.frases1 > div {
+    width: 600px;
+    height: 300px;
+    background: #89f889;
+    padding-top: 50px;
+}
+
+h2 {
+    color: rgb(24, 179, 93);
+    font-style:normal;
+}
+

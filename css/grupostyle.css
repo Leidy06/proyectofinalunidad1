@@ -1,0 +1,77 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background-color: #a9f1a9;
+}
+
+.Bloquetitulo {
+    font-size: 40px;
+    letter-spacing: 1px;
+    margin: 0;
+    padding-top: 50px;
+    text-align: center;
+    font-family: Ink Free;
+    color: rgb(24, 179, 93);
+}
+
+.parrafotitulo1 {
+    letter-spacing: 1px;
+    color: black;
+    margin-top: -30px;
+    text-align: center;
+    font-size: 25px;
+    padding-bottom: 30px;
+}
+
+.factores {
+    font-size: 40px;
+    letter-spacing: 1px;
+    margin: 0;
+    padding-top: 10px;
+    text-align: center;
+    font-family: Ink Free;
+    color: rgb(24, 179, 93);
+    background: white;
+    padding-bottom: 10px;
+}
+
+.factores1 {
+    letter-spacing: 1px;
+    color: black;
+    margin-top: 0px;
+    text-align: center;
+    font-size: 25px;
+    padding-bottom: 20px;
+}
+
+.factores1 {
+    width: 100%;
+    height: 400px;
+    display: flex;
+    text-align:left;
+    padding-left: 70px;
+    padding-top: 0px;
+}
+
+.factores1 > div {
+    width: 400px;
+    height: 300px;
+    background: #5fc45f;
+    padding-top: 10px;
+}
+
+.imagen {
+    text-align: center;
+    padding-bottom: 35px;
+    background: #a9f1a9;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+h4 {
+    text-align: center;
+    color: #146614;
+}

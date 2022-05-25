@@ -1,0 +1,41 @@
+.main_header {
+    width: 100%;
+    height: 110px;
+    z-index: 101;
+    background: #1d1c1c;
+    font-size: 40px;
+    font-family: Ink Free;
+    text-align: center;
+    margin-top: -8px;
+}
+
+.icono {
+    background: #a9f1a9;
+    margin: auto;
+    text-align: center;
+    padding-top: 15px;
+}
+
+.Menú ul{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    display: inline-flex;
+}
+
+.Menú li {
+    padding-top: 15px;
+    padding-left: 30px;
+}
+
+.Menú li a:hover {
+    color:rgb(85, 241, 168);
+    text-decoration:underline;
+}
+
+.Menú li a {
+    display: block;
+    padding: 15px;
+    text-decoration: none;
+    color:rgb(24, 179, 93);
+}
